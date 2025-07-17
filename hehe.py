@@ -1,0 +1,7 @@
+a=int(input("enter number 1:"))
+b=int(input("enter number 2:"))
+#b=input("enter number 2:")
+print(" a as",a)
+print(" b as",b)
+#print("sum as",a+b)
+print("the cube of a number is ",a**2)
